@@ -56,4 +56,4 @@ Demo Video
 
 Watch our project demo here: Click to Watch https://drive.google.com/file/d/1GSo83gVJqVGXNwANI3076cCNtJGwPUrB/view?usp=drivesdk
 
-⚡ How to Run Clone the repository: git clone https://github.com/mgc8mani23-hash/HEALTH_AI_IBM-PROJECT
+⚡ How to Run Clone the repository: git clone https://github.com/Benayablessing/IBM-Project
